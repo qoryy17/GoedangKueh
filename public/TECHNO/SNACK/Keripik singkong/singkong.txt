@@ -1,0 +1,10 @@
+Nama : Keripik Singkong
+Deskripsi singkat : Keripik satu ini adalah makanan yang terbuat dari
+			singkong yang diiris tipis kemudain digoreng dengan
+			menggunakan minyak.
+			Bahan yang dibutuhkan selain singkong dan minyak
+			ialah bawang putih dan penyedap rasa.
+			Ketahanan keripik ini 1-3 bulan.
+Harga : Rp. 50.000/1000gr
+Asal : Medan.
+

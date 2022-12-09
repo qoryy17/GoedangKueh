@@ -1,0 +1,12 @@
+Nama : Napoleons
+Deskripsi singkat : Napoleons salah satu jenis dessert manis yang 
+			biasanya terdiri dai 3 layer yang masing-masing
+			terdapat cream.
+			Napoleons berbahan dasar puff pastry dan cream manis,
+			biasanya diberi toping cream atau ditambah buah segar.
+			Napoleons dapat bertahan sampai dengan 3-4 hari
+			di luar ruangan dan dapat beratahan 1 minggu di dalam
+			lemari pendingin.
+Harga : Rp. 80.000 - Rp. 110.000/800gr
+Asal : Prancis.
+

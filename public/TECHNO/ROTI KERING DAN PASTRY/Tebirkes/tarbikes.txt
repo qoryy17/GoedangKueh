@@ -1,0 +1,11 @@
+Nama : Terbikes
+Deskripsi singkat : Terbikes yang merupakan jenis danish pastry dengan
+			cita rasa yang agak manis tapi tetap ada rasa
+			gurihnya. Terbikes berbentuk persegi dengan tekstur
+			berlapis.
+			Tarbikes berbahan dasar marzipan, mentega, gula, dan
+			telur.
+			Ketahanan roti ini bisa sampai 1-5 hari.
+Harga : Rp. 15.000 - Rp. 25.000/4 pcs
+Asal : Denmark.
+

@@ -1,0 +1,11 @@
+Nama : Cheese Stick
+Deskripsi singkat : Cheese stick adalah kue kering berbentuk seperti
+			tongkat. Memiliki cita rasa keju yang cukup
+			pekat, juga beraroma keju seperti namanya.
+			Komposisi untuk membuat kue ini tepung terigu, 
+			tepung sagu, garam, kaldu bubuk, telur, dan
+			keju pastinya.
+			Kue ini dapat bertahan 1-5 hari.
+Harga : Rp. 70.000 - Rp. 80. 000/1000gr
+Asal : Indonesia.
+

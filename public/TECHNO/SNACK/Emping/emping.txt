@@ -1,0 +1,10 @@
+Nama : Emping
+Deskripsi singkat : Emping adalah sejenis camilan atau makanan ringan 
+			Indonesia berupa kerupuk yang terbuat dari
+			biji melinjo atau belinjo.
+			Komposisi untuk membuatnya adalah bawang merah
+			dan putih, cabai, kaldu, garam, gula merah,
+			sereh, dan daun salam.
+Harga : Rp. 67.000/1000gr
+Asal : Medan.
+

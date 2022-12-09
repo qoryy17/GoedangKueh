@@ -1,0 +1,10 @@
+Nama : Roti buaya
+Deskripsi singkat : Roti buaya adalah roti khas Bekasi yang biasa
+			sering dijumpai saat acara pernikahan.
+			Bahan untuk membuat roti ini ialah tepung
+			terigu, gula, margarin, susu, telur, ragi,
+			air dan garam.
+			Roti satu ini dapat awet 1-3 hari saja.
+Harga : Rp. 30.000 - Rp. 40.000/100gr
+Asal : Indonesia(Bekasi).
+

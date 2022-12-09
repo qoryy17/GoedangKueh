@@ -1,0 +1,12 @@
+Nama : Croissant
+Deskripsi singkat : Croissant merupakan roti yang memiliki tekstur
+			yang berlapis-lapis dikarenakan teknik membuatnya
+			yang dikenal sebagai laminating, melipat adonan
+			berkali-kali dan diolesi mentega.
+			Croissant terbuat dari olahan tepung terigu,
+			gula, garam, ragi, dan juga mentega.
+			Roti satu ini dapat bertahan 5 hari.
+			
+Harga : Rp. 50.000 - Rp. 80.000/3 pcs
+Asal : Austria(Populer di Prancis).
+

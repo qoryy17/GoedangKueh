@@ -1,0 +1,11 @@
+Nama : Peyek Kacang
+Deskripsi singkat : Rempeyek adalah hidangan mirip kerupuk yang bercita rasa
+			gurih, rempeyek cocok sebagai peneman saat makan
+			atau sebagai cemilan.
+			Komposisi untuk membuat rempeyek ini ialah kacang
+			tanah, bawang putih, ketumbar, tepung beras, santan,
+			telur, daun jeruk, garam, dan minyak untuk menggoreng.
+			Ketahanan rempeyek hanya 1-2 bulan saja.
+Harga : Rp. 70.000/1000gr
+Asal : Medan.
+
